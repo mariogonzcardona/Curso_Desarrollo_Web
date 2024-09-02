@@ -1,0 +1,17 @@
+{
+    "name": "root/bienes-raices-poo_php_inicio",
+    "description": "Creando proyecto con POO",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mario Gonzalez",
+            "email": "alejandrogonzalez@uadec.edu.mx"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "App\\":"./classes"
+        }
+    }
+}

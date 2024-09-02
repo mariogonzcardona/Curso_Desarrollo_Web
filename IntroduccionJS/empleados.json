@@ -1,0 +1,43 @@
+{
+    "empleados": [{
+        "id": 1,
+        "nombre": "Ingelbert",
+        "puesto": "Programmer Analyst I"
+    }, {
+        "id": 2,
+        "nombre": "Bari",
+        "puesto": "Food Chemist"
+    }, {
+        "id": 3,
+        "nombre": "Halie",
+        "puesto": "Senior Cost Accountant"
+    }, {
+        "id": 4,
+        "nombre": "Dallis",
+        "puesto": "Information Systems Manager"
+    }, {
+        "id": 5,
+        "nombre": "Carny",
+        "puesto": "Civil Engineer"
+    }, {
+        "id": 6,
+        "nombre": "Ricard",
+        "puesto": "Geologist IV"
+    }, {
+        "id": 7,
+        "nombre": "Ches",
+        "puesto": "Biostatistician IV"
+    }, {
+        "id": 8,
+        "nombre": "Demeter",
+        "puesto": "Safety Technician I"
+    }, {
+        "id": 9,
+        "nombre": "Jemimah",
+        "puesto": "Marketing Manager"
+    }, {
+        "id": 10,
+        "nombre": "Alysia",
+        "puesto": "Analog Circuit Design manager"
+    }]
+}
